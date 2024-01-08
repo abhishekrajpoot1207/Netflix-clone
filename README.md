@@ -1,1 +1,2 @@
 # Netflix-clone
+This web application is clone of the original Netflix. Netflix is a streaming service that offers variety TV shows, movies, anime, documentaries, and more on thousands of internet-connected devices. You can watch as much as you want, whenever you want without a single commercial – all for one low monthly price. There's always something new to discover and new TV shows and movies are added every week!. 
